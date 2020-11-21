@@ -8,6 +8,6 @@ deploy:
   access_key_id: $AWS_KEY
   secret_access_key: $AWS_SECRET
   bucket: johnrteixeira.com
-  skip_cleanup: false
+  cleanup: true
   on:
     branch: main
