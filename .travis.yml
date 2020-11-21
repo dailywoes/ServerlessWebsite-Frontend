@@ -9,4 +9,4 @@ env:
   
   bucket: johnrteixeira.com
   on:
-    branch: dev
+    branch: main
