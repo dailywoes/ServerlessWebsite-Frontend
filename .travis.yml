@@ -10,4 +10,4 @@ deploy:
   bucket: johnrteixeira.com
   skip_cleanup: false
   on:
-    branch: main
+    branch: dev
