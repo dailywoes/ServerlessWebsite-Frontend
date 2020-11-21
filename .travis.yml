@@ -5,5 +5,5 @@ env:
 deploy:
   provider: s3
   access_key_id: USER
-  secret_access_key: PASS
+  secret_access_key: USER
   bucket: johnrteixeira.com
