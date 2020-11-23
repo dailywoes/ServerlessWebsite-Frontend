@@ -1,0 +1,55 @@
+
+
+#cont1 {
+	padding-top:30px;
+	padding-left: 40px;
+	padding-right: 40px;
+	overflow: hidden;
+}
+
+#cont2 {
+	background: #D3D3D3;
+	border-radius: 20px;
+}
+
+
+
+hr {
+	height:2px;
+	border-width: 0;
+	color:  black;
+	background-color:black;
+	margin:0;
+}
+
+h2 {
+	margin: 0;
+	font-weight: normal;
+}
+
+h3 {
+	margin: 0;
+	font-weight: normal;
+}
+
+ul {
+	margin-top: 0px;
+}
+
+li {
+	padding: 0;
+	margin-left: -10px;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+#counter {
+	text-align: center;
+	padding-bottom: 5px;
+}
